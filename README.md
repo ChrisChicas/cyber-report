@@ -22,16 +22,16 @@ Given the fact that a patch was implemented by Broadvoice with incredible haste,
 
 ### What type of attack was this?
 
-Test
+As the title of this section implies, this specific attack was done via ransomware. While Ukraine was certainly hit the hardest according to an anti-virus vendor known as ESET, it also affected 64 countries in total, such as Germany and the US. However, for one reason or another, it should be noted that the percentage of users affected by this attack outside of the Ukraine were drastically lower.
 
 ### How was the vulnerability discovered?
 
-Test
+It was fairly simple for people to catch on to this vulnerability once their systems started to go down. As a matter of fact, this happened all over the globe as mentioned earlier, but more specific examples of people affected include the company Maersk and a Cadbury's factory on Tasmania. It was all but clear that an attack was happening, but the source of the problem was and still remains slightly unclear.
 
 ### How were the attackers able to exploit the vulnerability?
 
-Test
+While many people believe that this virus originated after a Ukrainian tax-filing software by the name of MEDoc had their automatic update system hijacked by cyber attackers to download and run the malware instead of a real update, MEDoc denied the claims. Although, if we continue down this line of thinking, this theory does become more and more convincing, especially since there have been experts who back up this claim. They also state that once the virus has breached an organization, it would be very easy to spread the malware to other computers on the same network, thus further endangering company assets.
 
 ### Were there security measures that could have been taken in order to prevent this attack?
 
-Test
+This is tricky to answer considering the real source of the malware spreading hasn't been 100% confirmed, but if we assume that it was in fact through MEDoc's automatic software updating system, this would have been extremely hard to catch and prevent ahead of time. Users typically rely on the software vendors to have their best interests in mind, and typically don't think twice when it comes to updating their software. Perhaps truly the only people who would have noticed something off would have been the people in charge of setting those updates, although I can think of no way they would have noticed in time if this problem hadn't occurred  in the past. Perhaps just an overall tightening on security and encryption to gain access to those security updates or some such? I can't say that even fully makes sense given my experience, but that is the only thing that comes to mind regarding this issue.
